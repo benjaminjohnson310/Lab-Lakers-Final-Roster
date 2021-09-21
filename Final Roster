@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: Yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+  ul {
+  list-style-type: none;
+
+}
+body {
+  background-color: black;
+
+
+
+  color: white;
+  text-align: left;
+
+
+
+  font-family: verdana;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+  <div style="background-image: url('https://1.bp.blogspot.com/-vZpdysgqUGs/YSeT3Y5BahI/AAAAAAABO3k/p1qBFJqB1-w_UceC4OhnWVtodVpGDLF-gCLcBGAsYHQ/s0/LA%2BLakers%2B2021%2B2022%2BRoster.jpg');">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</div>
+
+<!DOCTYPE html>
+<html>
+<body>Los Angeles Lakers Roster
+  <div style="background-image: url('https://www.nba.com/lakers/sites/lakers/files/ts_180804logo.jpg?w=756&h=440');">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+ 
+
+<h2></h2>
+
+<ul>
+  
+
+  <li> <a href="https://www.espn.com/nba/player/_/id/1975/Carmelo-anthony" target="_blank">Carmelo anthony 7</a> </li>
+  <li><a href="https://www.espn.com/nba/player/_/id/2426/trevor-ariza" target="_blank">Trevor Ariza 1</a></li>
+  <li><a href="https://www.espn.com/nba/player/_/id/6583/anthony-davis" target="_blank">Anthony Davis 3</a></li>
+  <li><a href="https://www.espn.com/nba/player/_/id/2384/dwight-howard" target="_blank">Dwight Howard 39</a></li>
+  <li><a href="https://www.espn.com/nba/player/_/id/1966/lebron-james" target="_blank">LeBron James 6</a></li>
+  <li><a href="https://www.espn.com/nba/player/_/id/4066262/malik-monk" target="_blank">Malik Monk 11</a></li>
+  <li><a href="https://www.espn.com/nba/player/_/id/3026/rajon-rondo" target="_blank">Rajon Rondo 4</a></li>
+  <li><a href="https://www.espn.com/nba/player/_/id/3468/russell-westbrook" target="_blank">Russell Westbrook 0</a></li> 
+  <li><a href="https://www.espn.com/nba/player/_/id/3442/deandre-jordan" target="_blank">Deandre Jordan 10</a></li> 
+</ul> 
+
+</body>
+</html>
